@@ -10,15 +10,15 @@ const config: Config = {
   favicon: "img/FWSLogo4.ico",
 
   // Set the production url of your site here
-  url: "https://flyworkstudio.com",
+  url: "https://FlyWorkStudio.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  projectName: "FlyWorkStudio.github.io", // Nome do repositório
+  deploymentBranch: "master", // Branch para deploy
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
