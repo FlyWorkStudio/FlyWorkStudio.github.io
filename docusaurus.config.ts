@@ -17,8 +17,9 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
+  organizationName: "FlyWorkStudio",
   projectName: "FlyWorkStudio.github.io", // Nome do repositório
-  deploymentBranch: "master", // Branch para deploy
+  deploymentBranch: "gh-pages", // Branch para deploy
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
